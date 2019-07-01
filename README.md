@@ -10,3 +10,5 @@ JSON - https://github.com/nlohmann/json
 
 
 protobuf-2.5.0 - https://github.com/protocolbuffers/protobuf/releases/tag/v2.5.0
+
+https://i.imgur.com/nAZj735.png
