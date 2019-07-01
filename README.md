@@ -1,4 +1,4 @@
-# hellcat
+# Hellcat
 Hellcat is a OpenSource Cheat based in CSGOSimple.
 
 Screenshot - https://i.imgur.com/nAZj735.png
