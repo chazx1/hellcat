@@ -8856,7 +8856,7 @@ void RenderMiscTab()
 
 				char* username = getenv("USERNAME");
 				char* computer = getenv("COMPUTERNAME");
-				ImGui::Text("hellcat.xyz - %s", username);
+				ImGui::Text("hellcat.xyz by ch4z - %s", username);
 				ImGui::Text("Licensed To: %s", computer);
 				//ImGui::TextColored(ImVec4(0.0f, 1.0f, 0.0f, 1.0f), "Days left: %s", GetUserDayCount().c_str());
 				//DrawSpecialText("Days left: %s", GetUserDayCount().c_str());
